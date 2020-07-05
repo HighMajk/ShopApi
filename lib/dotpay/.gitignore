@@ -1,0 +1,9 @@
+build
+nbproject
+tests/*
+vendor
+vpproject
+composer.lock
+doc/
+output/
+.idea/
